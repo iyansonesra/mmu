@@ -1,0 +1,13 @@
+[
+{
+  "directory": "/u/iyanson1/cs429/project3/build",
+  "command": "/lusr/bin/gcc-11  -I../libtdmm  -g   -std=gnu99 -o CMakeFiles/project3.dir/main.c.o   -c /u/iyanson1/cs429/project3/main.c",
+  "file": "/u/iyanson1/cs429/project3/main.c"
+},
+
+{
+  "directory": "/u/iyanson1/cs429/project3/build",
+  "command": "/lusr/bin/gcc-11  -I../libtdmm  -g   -std=gnu99 -o libtdmm/CMakeFiles/tdmm.dir/tdmm.c.o   -c /u/iyanson1/cs429/project3/libtdmm/tdmm.c",
+  "file": "/u/iyanson1/cs429/project3/libtdmm/tdmm.c"
+}
+]

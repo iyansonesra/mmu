@@ -1,0 +1,6 @@
+/u/iyanson1/cs429/project3/build/CMakeFiles/rebuild_cache.dir
+/u/iyanson1/cs429/project3/build/CMakeFiles/edit_cache.dir
+/u/iyanson1/cs429/project3/build/CMakeFiles/project3.dir
+/u/iyanson1/cs429/project3/build/libtdmm/CMakeFiles/rebuild_cache.dir
+/u/iyanson1/cs429/project3/build/libtdmm/CMakeFiles/edit_cache.dir
+/u/iyanson1/cs429/project3/build/libtdmm/CMakeFiles/tdmm.dir

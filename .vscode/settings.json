@@ -1,0 +1,6 @@
+{
+    "cmake.configureOnOpen": true,
+    "files.associations": {
+        "mman-linux.h": "c"
+    }
+}
